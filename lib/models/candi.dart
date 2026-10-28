@@ -1,4 +1,4 @@
-class Candi{
+class Candi {
   final String name;
   final String location;
   final String description;
@@ -18,4 +18,5 @@ class Candi{
     required this.imageUrls,
     this.isFavorite = false,
   });
+
 }
